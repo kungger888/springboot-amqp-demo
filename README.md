@@ -11,3 +11,5 @@ springboot2.x + rabbitmq
 RabbitMQ：RabbitMQ3.7.7
 
 Springboot:2.4.4
+
+JDK：11
